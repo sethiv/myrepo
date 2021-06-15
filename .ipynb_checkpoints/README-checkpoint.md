@@ -1,3 +1,0 @@
-# myrepo
-trial
-//testing GitHub
